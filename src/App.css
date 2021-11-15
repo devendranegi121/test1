@@ -1,0 +1,52 @@
+ 
+body {
+  font-family: HSBC-Font;
+}
+p {
+  font-size: 16px;
+}
+.table th{background-color: #cbd0d6;}
+.m-1 {margin-top: 20px;}
+.headding{padding: 0px; margin: 0px;}
+.margin {
+  margin-bottom: 45px;
+}
+
+.bg-1 {
+  background-color: #000;
+  margin-bottom: 0px;
+  color: #ffffff;
+  border-radius: 0px;
+}
+
+
+.bg-4 {
+  background-color: #2f2f2f;
+  color: #fff;
+  border-radius: 0px;
+}
+.navbar-brand>img {
+  max-height: 23px;
+}
+.log_out a{
+  background-color: #506576;
+  display: block;
+  padding: 3px 10px;
+  margin-top: 10px;
+  color: #9d9d9d;
+}
+.key-value td{width: 50%;}
+.log_out a:hover{ text-decoration: none; color: #fff;}
+
+.scroll-table{
+  max-height: 410px;
+  overflow: auto;
+}
+
+
+.table>tbody>tr.active>td {background-color:#5b9cd7; color: #fff;}
+.text-danger{color: red;}
+
+.footer-btn{
+  padding: 10px; border-top: 1px solid #ccc; background: #fff;
+}
