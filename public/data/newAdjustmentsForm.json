@@ -1,0 +1,158 @@
+[
+    {
+        "field_id": "dev_101",
+        "field_name": "Adjustments Type"
+    },
+    {
+        "field_id": "dev_102",
+        "field_name": "Entity Id"
+    },
+    {
+        "field_id": "dev_103",
+        "field_name": "Area Id"
+    },
+    {
+        "field_id": "dev_104",
+        "field_name": "Reporting Facility Id"
+    },
+    {
+        "field_id": "startDate",
+        "field_name": "Total Relationship Id"
+    },
+    {
+        "field_id": "dev_106",
+        "field_name": "Customer Name"
+    },
+    {
+        "field_id": "dev_107",
+        "field_name": "CIF Customer Id"
+    },
+    {
+        "field_id": "dev_108",
+        "field_name": "Final Customer Risk Grade"
+    },
+    {
+        "field_id": "dev_109",
+        "field_name": "Master Net Balance"
+    },
+    {
+        "field_id": "dev_110",
+        "field_name": "Master Availability"
+    },
+    {
+        "field_id": "dev_111",
+        "field_name": "Master Interim Adjustment"
+    },
+    {
+        "field_id": "dev_112",
+        "field_name": "Master Live Limit Net"
+    },
+    {
+        "field_id": "dev_113",
+        "field_name": "Country Code of Ultimate Risk"
+    },
+    {
+        "field_id": "dev_114",
+        "field_name": "Country Code Incorpoation"
+    },
+    {
+        "field_id": "dev_115",
+        "field_name": "Committed Ind"
+    },
+    {
+        "field_id": "dev_116",
+        "field_name": "FCL Cost Center Id"
+    },
+    {
+        "field_id": "dev_117",
+        "field_name": "Facility Status Code"
+    },
+    {
+        "field_id": "dev_118",
+        "field_name": "Facility Type Code"
+    },
+    {
+        "field_id": "dev_119",
+        "field_name": "Hadged Notional"
+    },
+    {
+        "field_id": "dev_120",
+        "field_name": "Fcl Use 1"
+    },
+    {
+        "field_id": "dev_121",
+        "field_name": "facility Gard"
+    },
+    {
+        "field_id": "dev_122",
+        "field_name": "LGD - Loss Given Default"
+    },
+    {
+        "field_id": "dev_123",
+        "field_name": "Catefory Type"
+    },
+    {
+        "field_id": "dev_124",
+        "field_name": "Non- Accrual Ind FCL"
+    },
+    {
+        "field_id": "dev_125",
+        "field_name": "SIC Code 1"
+    },
+    {
+        "field_id": "dev_126",
+        "field_name": "SIC Code Industry Desc"
+    },
+    {
+        "field_id": "dev_127",
+        "field_name": "SIC Sub Industry Desc"
+    },
+    {
+        "field_id": "dev_128",
+        "field_name": "Primary Country Code of Risk"
+    },
+    {
+        "field_id": "dev_129",
+        "field_name": "CARM - Secondary Country Code of Risk"
+    },
+    {
+        "field_id": "dev_130",
+        "field_name": "Country Code of Second Order Risk"
+    },
+    {
+        "field_id": "dev_131",
+        "field_name": "Underwriting Flag"
+    },
+    {
+        "field_id": "dev_132",
+        "field_name": "Sell Down Date"
+    },
+    {
+        "field_id": "dev_133",
+        "field_name": "Underwriting Deal Type"
+    },
+    {
+        "field_id": "dev_134",
+        "field_name": "Financially Sponsored Facility"
+    },
+    {
+        "field_id": "dev_135",
+        "field_name": "Primary Country Code of Risk"
+    },
+    {
+        "field_id": "dev_136",
+        "field_name": "Busines Customer Type"
+    },
+    {
+        "field_id": "dev_137",
+        "field_name": "Affiliation Code"
+    },
+    {
+        "field_id": "dev_138",
+        "field_name": "Start Date"
+    },
+    {
+        "field_id": "dev_139",
+        "field_name": "End Date"
+    }
+]

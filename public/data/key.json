@@ -1,0 +1,18 @@
+{
+    "keys": [
+        "Adjustments Type",
+        "Enty Id",
+        "Area Id",
+        "Reporting Facility Id",
+        "Primary Country Code of Risk",
+        "CARM - Secondary Country Code of Risk",
+        "Country Code of Second Order Risk",
+        "Underwriting Flag",
+        "Sell Down Date",
+        "Underwriting Deal Type",
+        "Financially Sponsored Facility",
+        "Primary Country Code of Risk",
+        "Busines Customer Type",
+        "Affiliation Code"
+        ]
+}

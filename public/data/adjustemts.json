@@ -1,0 +1,28 @@
+[
+    {
+        "adjustment_id": 1,
+        "adjustment_start_date": "2022-12-10",
+        "adjustment_end_date": "2022-12-12",
+        "available_for_reviewer": "False",
+        "adjustment_status": "DRAFT",
+        "adjusted_data_extract": {
+            "createdTime": "2022-01-10T00:00:00.000+00:00",
+            "fileLocation": "test.xlsx",
+            "uploadTime": "2022-01-10T00:00:00.000+00:00",
+            "data extract_id": 1
+        }
+    },
+    {
+        "adjustment_id": 2,
+        "adjustment_start_date": "2022-12-11",
+        "adjustment_end_date": "2022-12-16",
+        "available_for_reviewer": "True",
+        "adjustment_status": "APPROVED",
+        "adjusted_data_extract": {
+            "createdTime": "2022-01-10T00:00:00.000+00:00",
+            "fileLocation": "test.xlsx",
+            "uploadTime": "2022-01-10T00:00:00.000+00:00",
+            "data extract_id": 1
+        }
+    }
+]
